@@ -1,7 +1,7 @@
 package main
 
 import (
-	"./router"
+	"github.com/zhs007/tradingview_udf_go/router"
 )
 
 // StartServ -

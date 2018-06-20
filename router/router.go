@@ -1,7 +1,7 @@
 package router
 
 import (
-	"../controller/index"
+	"github.com/zhs007/tradingview_udf_go/controller/index"
 
 	"github.com/gin-gonic/gin"
 )

@@ -5,7 +5,7 @@ import (
 	"path"
 	"runtime"
 
-	"./base"
+	"github.com/zhs007/tradingview_udf_go/base"
 )
 
 func main() {
